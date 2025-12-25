@@ -1,6 +1,8 @@
 # narly
 Automatically exported from code.google.com/p/narly
 
+Exploit development windbg extension.
+
 Author: d0c-s4vage\
 Additionally Capabilities: @TheCyberBebop, Shadi Habbal (@Kerpanic)\
 Tested on: Windows 10.0.19041.1052 (x86_64)
